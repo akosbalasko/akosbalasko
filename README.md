@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 <!--START_SECTION:waka-->
 ```text
-TypeScript   2 hrs 29 mins   ██████████████████████░░░   88.08 % 
-JSON         18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+TypeScript   7 hrs 49 mins   ██████████▓░░░░░░░░░░░░░░   42.72 % 
+JSON         4 hrs 41 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.63 % 
+Svelte       2 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Docker       1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+JavaScript   1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 ```
 <!--END_SECTION:waka-->
