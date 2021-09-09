@@ -1,19 +1,11 @@
-### Hi there 👋
+# 👋 Hi there, I'm akos. 
 
-<!--
-**akosbalasko/akosbalasko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Let the stats talk:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### In which language I code (or edit) day by day (powered by Wakatime): 
+
 <!--START_SECTION:waka-->
 ```text
 TypeScript   5 hrs 30 mins   ████████████████░░░░░░░░░   63.79 % 
@@ -23,3 +15,11 @@ Other        27 mins         █▒░░░░░░░░░░░░░░░
 Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 ```
 <!--END_SECTION:waka-->
+
+#### On my open-source contribution here on Github:
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akosbalasko)
+
+#### In a large scale let me show a chart about the transformation of my experience over years:   
+
+![Experience](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=akosbalasko)
