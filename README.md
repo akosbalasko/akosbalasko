@@ -7,13 +7,16 @@
 #### In which language I code (or edit) day by day (powered by Wakatime): 
 
 <!--START_SECTION:waka-->
+
 ```text
-TypeScript   12 hrs 40 mins  ██████████████████▓░░░░░░   75.32 % 
-Bash         54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-JSON         51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-JavaScript   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-YAML         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+TypeScript   12 hrs 40 mins  ██████████████████▓░░░░░░   75.32 %
+Bash         54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+JSON         51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+JavaScript   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+YAML         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Markdown     31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
 ```
+
 <!--END_SECTION:waka-->
 
 #### On my open-source contribution here on Github:
