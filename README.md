@@ -9,7 +9,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+HTML          47 mins         ████████░░░░░░░░░░░░░░░░░   31.42 %
+Other         47 mins         ███████▓░░░░░░░░░░░░░░░░░   30.97 %
 ```
 
 <!--END_SECTION:waka-->
