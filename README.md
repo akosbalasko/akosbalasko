@@ -9,11 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 11 mins    ███████████████████▓░░░░░   79.17 %
-Markdown     9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
-Cheetah      4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-templ        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
