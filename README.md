@@ -1,18 +1,6 @@
 # 👋 Hi there, I'm akos. 
 
 
-### Let the stats talk:
-
-
-#### In which language I code (or edit) day by day (powered by Wakatime): 
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 #### On my open-source contribution here on Github:
  
